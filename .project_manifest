@@ -1,0 +1,6 @@
+{
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "Compute, visualize, and export the principal components of a dataset",
+    "image": "Legacy",
+    "name": "Principal Component Analysis (PCA)"
+}
